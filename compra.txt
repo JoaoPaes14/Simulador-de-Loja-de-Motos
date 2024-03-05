@@ -1,0 +1,13 @@
+Loja de Motos Sandero
+Modelo: Fan
+Cor: Branco
+
+Valor final da compra à vista: 17484.0
+Cliente:
+Nome: joao
+Email: joaopaes556@Gmail.com
+CPF: 07705451140
+Número: 61984419784
+CEP: 72545514
+Opção de pagamento: À vista
+Código de Barras: 443390963353
